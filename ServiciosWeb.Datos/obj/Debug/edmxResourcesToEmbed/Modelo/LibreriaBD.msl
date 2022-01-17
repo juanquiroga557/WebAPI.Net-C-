@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EjemploAPIModelStoreContainer" CdmEntityContainer="LibreriaConnection">
+    <EntitySetMapping Name="Persona">
+      <EntityTypeMapping TypeName="EjemploAPIModel.Persona">
+        <MappingFragment StoreEntitySet="Persona">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellidos" ColumnName="apellidos" />
+          <ScalarProperty Name="celular" ColumnName="celular" />
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

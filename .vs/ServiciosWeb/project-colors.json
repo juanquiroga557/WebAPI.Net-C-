@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dbb9ef63-620a-41c5-8d98-646693b22233": {
+      "ProjectGuid": "dbb9ef63-620a-41c5-8d98-646693b22233",
+      "DisplayName": "ServiciosWeb.WebAPI",
+      "ColorIndex": 0
+    },
+    "8e25bd23-4817-408e-bae9-550cbb43108f": {
+      "ProjectGuid": "8e25bd23-4817-408e-bae9-550cbb43108f",
+      "DisplayName": "ServiciosWeb.Datos",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

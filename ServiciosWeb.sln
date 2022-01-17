@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiciosWeb.WebAPI", "ServiciosWeb.WebAPI\ServiciosWeb.WebAPI.csproj", "{DBB9EF63-620A-41C5-8D98-646693B22233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiciosWeb.Datos", "ServiciosWeb.Datos\ServiciosWeb.Datos.csproj", "{8E25BD23-4817-408E-BAE9-550CBB43108F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBB9EF63-620A-41C5-8D98-646693B22233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBB9EF63-620A-41C5-8D98-646693B22233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBB9EF63-620A-41C5-8D98-646693B22233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBB9EF63-620A-41C5-8D98-646693B22233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E25BD23-4817-408E-BAE9-550CBB43108F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E25BD23-4817-408E-BAE9-550CBB43108F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E25BD23-4817-408E-BAE9-550CBB43108F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E25BD23-4817-408E-BAE9-550CBB43108F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A457EC42-C5F6-4788-A44E-DFD33918A40A}
+	EndGlobalSection
+EndGlobal

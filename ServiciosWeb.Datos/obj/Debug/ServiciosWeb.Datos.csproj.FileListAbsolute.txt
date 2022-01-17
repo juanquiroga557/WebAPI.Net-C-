@@ -1,0 +1,12 @@
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.dll.config
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.dll
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\bin\Debug\ServiciosWeb.Datos.pdb
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\bin\Debug\EntityFramework.dll
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\bin\Debug\EntityFramework.xml
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.csproj.AssemblyReference.cache
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.csproj.CopyComplete
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.dll
+C:\Users\Pablo\source\repos\WebAPI\ServiciosWeb.Datos\obj\Debug\ServiciosWeb.Datos.pdb
